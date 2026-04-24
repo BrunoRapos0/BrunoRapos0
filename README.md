@@ -11,7 +11,7 @@ You can reach me at raposo.santos.bruno@gmail.com
 ##
 
 ### Languages I have worked with:
-<p>
+<p align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
@@ -24,7 +24,7 @@ You can reach me at raposo.santos.bruno@gmail.com
 </p>
 
 ### Databases I have worked with:
-<p>
+<p align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firestore" width="48" height="48" />
