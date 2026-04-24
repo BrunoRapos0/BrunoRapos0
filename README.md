@@ -12,12 +12,12 @@ You can reach me at raposo.santos.bruno@gmail.com
 
 ### Languages I have worked with:
 <p>
-	<img src="https://skillicons.dev/icons?i=python,kotlin,c,cpp,java,js,ts,html,prolog&perline=10" height="120px"/>
+	<img src="https://skillicons.dev/icons?i=python,kotlin,c,cpp,java,js,ts,html,prolog&perline=10" height="200px"/>
 </p>
 
 ### Databases I have worked with:
 <p>
-	<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&perline=10" height="120px"/>
+	<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&perline=10" height="200px"/>
 </p>
 
 ##
